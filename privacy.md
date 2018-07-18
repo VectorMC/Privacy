@@ -1,4 +1,4 @@
-# The VectorMC Privacy Policy
+# VectorMC's Privacy Policy
 [_v1.0_]
 **Privacy Policy subject to change**
 
