@@ -1,5 +1,6 @@
-# VectorMC's Privacy Policy
-[_v1.0_]
+# Privacy Policy
+### VectorMC's Privacy Policy
+[_v1.0_] Last Updated: 8th of April 2019 <br>
 **Privacy Policy subject to change**
 
 VectorMC collects and stores information about our players in a few different ways:
